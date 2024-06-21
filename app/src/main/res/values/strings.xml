@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">moviewcloneinstgram</string>
+
+
+
+    <string name="You">Your story</string>
+    <string name="f433">433</string>
+    <string name="inter">inter</string>
+    <string name="ilyes1">ilyes</string>
+    <string name="description1">Be a winner</string>
+    <string name="time1">2</string>
+    <string name="timeFormat1">hours ago</string>
+    <string name="likes1">2554</string>
+    <string name="comments1">22</string>
+
+
+
+
+
+    <string name="description2">Spain are on fire 🔥🔥</string>
+    <string name="time2">14</string>
+    <string name="timeFormat2">minutes ago</string>
+    <string name="likes2">345,567</string>
+    <string name="comments2">1237</string>
+
+
+
+
+
+    <string name="description3">el principe diego milito🥶</string>
+    <string name="time3">1</string>
+    <string name="timeFormat3">day ago</string>
+    <string name="likes3">1,234,981</string>
+    <string name="comments3">4569</string>
+
+
+</resources>
